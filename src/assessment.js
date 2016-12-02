@@ -64,6 +64,8 @@ var async = function() {
 }
 
 
+
+
 // #3  ###################
 // # Context 1
 // Write a function called context1 that takes in 4 parameters: A function called myFn, an object called context, param1, and param2.
